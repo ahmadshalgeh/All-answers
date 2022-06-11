@@ -14,3 +14,5 @@ while number_list == sorted(number_list):
         number = int(number) - 1
         number = str(number)
         number_list = []
+        
+        
